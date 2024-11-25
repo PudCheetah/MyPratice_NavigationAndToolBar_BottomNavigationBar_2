@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/fragmentA"
+        android:icon="@drawable/baseline_3g_mobiledata_24"
+        android:title="FagA" />
+    <item
+        android:id="@+id/fragmentB"
+        android:icon="@drawable/baseline_4g_mobiledata_24"
+        android:title="FagB" />
+    <item
+        android:id="@+id/fragmentC"
+        android:icon="@drawable/baseline_adb_24"
+        android:title="FagC" />
+    <item
+        android:id="@+id/fragmentD"
+        android:icon="@drawable/baseline_4g_plus_mobiledata_24"
+        android:title="FagD" />
+    <item
+        android:id="@+id/fragmentE"
+        android:icon="@android:drawable/ic_menu_help"
+        android:title="FagE" />
+</menu>
